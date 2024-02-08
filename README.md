@@ -1,1 +1,1 @@
-# coilgun
+# Coilgun Control Software
